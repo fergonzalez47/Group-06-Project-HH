@@ -14,6 +14,10 @@ Functions:
 #Purpose
 create "Handcrafted Haven," an innovative web application serving as a virtual marketplace for artisans and crafters. The primary goals are to connect creators with customers, foster a sense of community, and promote sustainable consumption.
 
+#Theme
+Colors: https://coolors.co/f58300-28262c-ebf2fa-97ce5c-fff6b5
+Fonts: Sans Serif
+
 # Project Members
 1.	Fernando Gonzales
 2.	Anelisa Ferreira
