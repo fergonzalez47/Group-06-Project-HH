@@ -12,7 +12,7 @@ Functions:
 - Users can browse items by category, price range, artisan and they can lave a review and ratings
 
 # Project Members
-1.	
-2.	
-3.	
-4.	
+1.	Fernando Gonzales
+2.	Anelisa Ferreira
+3.	Alain Catari
+4.	Ojukwu Ifeanyi
