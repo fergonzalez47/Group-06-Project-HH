@@ -11,6 +11,9 @@ Functions:
 - Product Listings: Non authenticated users cand list items for sale with descriptions, pricing and images.
 - Users can browse items by category, price range, artisan and they can lave a review and ratings
 
+#Purpose
+create "Handcrafted Haven," an innovative web application serving as a virtual marketplace for artisans and crafters. The primary goals are to connect creators with customers, foster a sense of community, and promote sustainable consumption.
+
 # Project Members
 1.	Fernando Gonzales
 2.	Anelisa Ferreira
