@@ -16,7 +16,7 @@ create "Handcrafted Haven," an innovative web application serving as a virtual m
 
 #Theme
 Colors: https://coolors.co/f58300-28262c-ebf2fa-97ce5c-fff6b5
-Fonts: Sans Serif
+Fonts: Merienda, Sans Serif
 
 # Project Members
 1.	Fernando Gonzales
