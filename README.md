@@ -27,6 +27,9 @@ Fonts: Merienda, Sans Serif
 #URL Repository
 https://dev.azure.com/alainluthier/_git/WDD430-Group06-Project
 
+#Board Repository
+https://dev.azure.com/alainluthier/WDD430-Group06-Project/_workitems/recentlyupdated/
+
 #Ideas
 [21:57] Ferreira, Anelisa
  
